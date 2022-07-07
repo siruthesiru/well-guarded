@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WellGuarded">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/WellGuarded_jar/WellGuarded.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
